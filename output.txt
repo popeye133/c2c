@@ -1,0 +1,10 @@
+ Volume in drive C is popeye
+ Volume Serial Number is E467-FF64
+
+ Directory of C:\Users\acer\output
+
+10-04-2024  22:10    <DIR>          .
+10-04-2024  14:11    <DIR>          ..
+10-04-2024  22:10        11,640,385 of.exe
+               1 File(s)     11,640,385 bytes
+               2 Dir(s)   3,827,036,160 bytes free
