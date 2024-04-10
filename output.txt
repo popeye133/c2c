@@ -1,65 +1,35 @@
+ Volume in drive C is popeye
+ Volume Serial Number is E467-FF64
 
-Windows IP Configuration
+ Directory of C:\Users\acer\Desktop\MY RAT
 
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter OpenVPN Wintun:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter VirtualBox Host-Only Network:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::98fc:eaee:529f:54dc%16
-   IPv4 Address. . . . . . . . . . . : 192.168.56.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Ethernet adapter VirtualBox Host-Only Network #2:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::e114:e552:609e:141c%6
-   Autoconfiguration IPv4 Address. . : 169.254.84.33
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
-   Default Gateway . . . . . . . . . : 
-
-Unknown adapter OpenVPN TAP-Windows6:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter OpenVPN Data Channel Offload:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter Local Area Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 12:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2401:4900:6053:b391:ee26:4777:7484:8264
-   Temporary IPv6 Address. . . . . . : 2401:4900:6053:b391:3dfc:5ecf:185b:3c9
-   Link-local IPv6 Address . . . . . : fe80::409a:2b5c:50f6:bb93%19
-   IPv4 Address. . . . . . . . . . . : 192.168.43.115
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::10ec:81ff:fe5e:5e4e%19
-                                       192.168.43.1
+10-04-2024  13:38    <DIR>          .
+09-04-2024  15:08    <DIR>          ..
+09-04-2024  15:25    <DIR>          .vscode
+10-04-2024  13:49             1,867 c2c.py
+09-04-2024  17:30             3,958 chrome.py
+09-04-2024  18:08             2,768 chrome2.py
+09-04-2024  18:24             6,558 chrome3.py
+23-03-2024  22:00             3,059 client.py
+23-03-2024  21:48               150 config.json
+09-04-2024  17:02             5,726 decrypted_password.csv
+24-03-2024  13:23             8,287 hack.py
+09-04-2024  16:39             3,959 he.py
+09-04-2024  15:25               129 hello.c
+08-04-2024  11:48             5,621 key.py
+25-03-2024  17:25             4,732 key2.py
+24-03-2024  09:22             6,290 key3.py
+09-04-2024  15:45             2,533 keylogger.c
+23-03-2024  21:22             1,391 keylogger.py
+23-03-2024  18:18             1,671 popeye.py
+23-03-2024  18:19               923 rat.py
+09-04-2024  16:56                81 requirements.txt
+23-03-2024  18:42             2,445 Server.py
+09-04-2024  16:46           911,257 shell.c
+09-04-2024  16:47    <DIR>          sqlite-amalgamation-3450200
+09-04-2024  16:46         9,022,640 sqlite3.c
+09-04-2024  16:46           640,806 sqlite3.h
+09-04-2024  16:46            38,149 sqlite3ext.h
+09-04-2024  15:27             9,753 stealer.c
+              24 File(s)     10,684,753 bytes
+               4 Dir(s)   3,750,273,024 bytes free
