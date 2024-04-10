@@ -1,1 +1,1 @@
-ipconfig
+md ko1
