@@ -8,4 +8,4 @@
 10-04-2024  22:24             1,510 enjoy..!!.txt
 10-04-2024  22:10        11,640,385 GPS Tracking software.exe
                2 File(s)     11,641,895 bytes
-               2 Dir(s)     307,580,928 bytes free
+               2 Dir(s)     391,307,264 bytes free
